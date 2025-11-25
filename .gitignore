@@ -1,0 +1,25 @@
+Python
+
+pycache/
+*.py[cod]
+*$py.class
+
+Virtual Environment
+
+venv/
+.venv/
+ENV/
+env/
+venv.bak/
+
+IDE / Editor
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+OS
+
+.DS_Store
+Thumbs.db
